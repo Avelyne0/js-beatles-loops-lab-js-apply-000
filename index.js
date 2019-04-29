@@ -1,3 +1,3 @@
 // add solution here
 
-fucntion (the beatles)
+fucntion theBeatlesPlay(musicians, instruments)
