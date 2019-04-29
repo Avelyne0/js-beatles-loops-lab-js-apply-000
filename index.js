@@ -1,5 +1,5 @@
 // add solution here
 
-fucntion theBeatlesPlay(musicians, instruments) {
-  
+function theBeatlesPlay(musicians, instruments) {
+  var theBeatlesPlay[]
 }
